@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.Form1.resources
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.csproj.GenerateResource.cache
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.AssemblyInfo.cs
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tablica\tablica\bin\Debug\net6.0-windows\tablica.exe
+C:\Users\user\source\repos\tablica\tablica\bin\Debug\net6.0-windows\tablica.deps.json
+C:\Users\user\source\repos\tablica\tablica\bin\Debug\net6.0-windows\tablica.runtimeconfig.json
+C:\Users\user\source\repos\tablica\tablica\bin\Debug\net6.0-windows\tablica.dll
+C:\Users\user\source\repos\tablica\tablica\bin\Debug\net6.0-windows\tablica.pdb
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.dll
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\refint\tablica.dll
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.pdb
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\tablica.genruntimeconfig.cache
+C:\Users\user\source\repos\tablica\tablica\obj\Debug\net6.0-windows\ref\tablica.dll
